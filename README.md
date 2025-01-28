@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -135,14 +137,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/AdityaSinha149/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |

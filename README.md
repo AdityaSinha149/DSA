@@ -151,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/AdityaSinha149/DSA/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

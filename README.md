@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaSinha149/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AdityaSinha149/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3469-maximum-height-of-a-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3469-maximum-height-of-a-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AdityaSinha149/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AdityaSinha149/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 ## Counting

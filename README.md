@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdityaSinha149/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
 ## Counting Sort
 |  |
 | ------- |

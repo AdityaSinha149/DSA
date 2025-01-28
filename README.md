@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaSinha149/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaSinha149/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdityaSinha149/DSA/tree/master/0011-container-with-most-water) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |

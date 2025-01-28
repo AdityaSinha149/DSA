@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/AdityaSinha149/DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2645-pass-the-pillow](https://github.com/AdityaSinha149/DSA/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
@@ -206,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/AdityaSinha149/DSA/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AdityaSinha149/DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2645-pass-the-pillow](https://github.com/AdityaSinha149/DSA/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaSinha149/DSA/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdityaSinha149/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdityaSinha149/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaSinha149/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdityaSinha149/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaSinha149/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaSinha149/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |

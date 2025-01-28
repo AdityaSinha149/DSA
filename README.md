@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
+## Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->

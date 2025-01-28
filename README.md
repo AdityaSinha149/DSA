@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaSinha149/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Two Pointers
@@ -83,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaSinha149/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->

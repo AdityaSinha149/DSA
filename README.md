@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AdityaSinha149/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AdityaSinha149/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AdityaSinha149/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaSinha149/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdityaSinha149/DSA/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/AdityaSinha149/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AdityaSinha149/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AdityaSinha149/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

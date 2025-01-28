@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaSinha149/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AdityaSinha149/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaSinha149/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaSinha149/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
+| [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/AdityaSinha149/DSA/tree/master/1642-water-bottles) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AdityaSinha149/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [1511-count-number-of-teams](https://github.com/AdityaSinha149/DSA/tree/master/1511-count-number-of-teams) |
 ## Merge Sort
 |  |

@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdityaSinha149/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaSinha149/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaSinha149/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting Sort

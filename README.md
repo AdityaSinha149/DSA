@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaSinha149/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/AdityaSinha149/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |

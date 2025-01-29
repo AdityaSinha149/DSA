@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/AdityaSinha149/DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2645-pass-the-pillow](https://github.com/AdityaSinha149/DSA/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaSinha149/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AdityaSinha149/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
+| [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaSinha149/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
 | [3469-maximum-height-of-a-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3469-maximum-height-of-a-triangle) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
 | [0476-number-complement](https://github.com/AdityaSinha149/DSA/tree/master/0476-number-complement) |
+| [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/AdityaSinha149/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Greedy
@@ -330,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
+## Brainteaser
+|  |
+| ------- |
+| [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 <!---LeetCode Topics End-->

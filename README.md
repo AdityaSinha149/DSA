@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/AdityaSinha149/DSA/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdityaSinha149/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AdityaSinha149/DSA/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaSinha149/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdityaSinha149/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaSinha149/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaSinha149/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AdityaSinha149/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/AdityaSinha149/DSA/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AdityaSinha149/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaSinha149/DSA/tree/master/0029-divide-two-integers) |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0476-number-complement](https://github.com/AdityaSinha149/DSA/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaSinha149/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaSinha149/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdityaSinha149/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -410,4 +414,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaSinha149/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

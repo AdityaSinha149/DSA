@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/AdityaSinha149/DSA/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdityaSinha149/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AdityaSinha149/DSA/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaSinha149/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaSinha149/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaSinha149/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
 |  |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/AdityaSinha149/DSA/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AdityaSinha149/DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaSinha149/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaSinha149/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaSinha149/DSA/tree/master/2299-merge-nodes-in-between-zeros) |

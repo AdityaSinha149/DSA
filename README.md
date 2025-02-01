@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaSinha149/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
+| [3429-special-array-i](https://github.com/AdityaSinha149/DSA/tree/master/3429-special-array-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

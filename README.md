@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdityaSinha149/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AdityaSinha149/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdityaSinha149/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/AdityaSinha149/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AdityaSinha149/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AdityaSinha149/DSA/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdityaSinha149/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/AdityaSinha149/DSA/tree/master/0061-rotate-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AdityaSinha149/DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaSinha149/DSA/tree/master/2299-merge-nodes-in-between-zeros) |

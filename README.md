@@ -436,4 +436,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/AdityaSinha149/DSA/tree/master/1179-game-play-analysis-i) |
+| [1180-game-play-analysis-ii](https://github.com/AdityaSinha149/DSA/tree/master/1180-game-play-analysis-ii) |
 <!---LeetCode Topics End-->

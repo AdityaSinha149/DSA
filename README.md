@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |

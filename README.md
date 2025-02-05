@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaSinha149/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/AdityaSinha149/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AdityaSinha149/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AdityaSinha149/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AdityaSinha149/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/AdityaSinha149/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AdityaSinha149/DSA/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaSinha149/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1138-grumpy-bookstore-owner](https://github.com/AdityaSinha149/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2003-distinct-numbers-in-each-subarray](https://github.com/AdityaSinha149/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AdityaSinha149/DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum

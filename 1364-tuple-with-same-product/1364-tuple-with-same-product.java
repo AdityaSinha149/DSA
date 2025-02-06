@@ -9,12 +9,8 @@ class Solution {
         
         int cnt = 0;
         for (int value : multToTimesMap.values()) {
-            cnt += 8 * nC2(value);
+            cnt += 4*(value-1)*value;
         }
         return cnt;
-    }
-
-    private int nC2(int n) {
-        return n * (n - 1) / 2;
     }
 }

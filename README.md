@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AdityaSinha149/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdityaSinha149/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaSinha149/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaSinha149/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AdityaSinha149/DSA/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdityaSinha149/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3469-maximum-height-of-a-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaSinha149/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaSinha149/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/AdityaSinha149/DSA/tree/master/2645-pass-the-pillow) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdityaSinha149/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
 |  |
 | ------- |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2003-distinct-numbers-in-each-subarray](https://github.com/AdityaSinha149/DSA/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AdityaSinha149/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdityaSinha149/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaSinha149/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |
 ## Linked List
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/AdityaSinha149/DSA/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/AdityaSinha149/DSA/tree/master/1180-game-play-analysis-ii) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->

@@ -14,28 +14,25 @@
  * }
  */
 class Solution {
-    public void inOrderTraversal(TreeNode root,ArrayList<Integer> array){
-        if(root!=null){
-            inOrderTraversal(root.left,array);
-            array.add(root.val);
-            inOrderTraversal(root.right,array);
-        }
-    }
-
-    public static TreeNode sortedArrayListToBST(ArrayList<Integer> array, int start, int end) {
-        if (start > end) {
-            return null;
-        }
-        int mid = start + (end - start) / 2;
-        TreeNode node = new TreeNode(array.get(mid));
-        node.left = sortedArrayListToBST(array, start, mid - 1);
-        node.right = sortedArrayListToBST(array, mid + 1, end);
-        return node;
-    }
-
+    List<TreeNode> treeList;
     public TreeNode balanceBST(TreeNode root) {
-        ArrayList<Integer> array=new ArrayList();
-        inOrderTraversal(root,array);
-        return sortedArrayListToBST(array,0,array.size()-1);
+        treeList=new ArrayList<>();
+        treeToList(root);
+        return listToBST(0, treeList.size()-1);
+    }
+
+    private void treeToList(TreeNode root){
+        if(root.left!=null)treeToList(root.left);
+        treeList.add(root);
+        if(root.right!=null)treeToList(root.right);
+    }
+
+    private TreeNode listToBST(int l,int h){
+        if(l>h)return null;
+        int m=l+(h-l)/2;
+        TreeNode root=treeList.get(m);
+        root.left=listToBST(l, m-1);
+        root.right=listToBST(m+1, h);
+        return root;
     }
 }

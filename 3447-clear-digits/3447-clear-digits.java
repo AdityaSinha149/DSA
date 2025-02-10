@@ -1,14 +1,11 @@
 class Solution {
     public String clearDigits(String s) {
-        int idx=0;
-        StringBuilder sb=new StringBuilder(s);
-        while(sb.length()>idx){
-            if(Character.isDigit(sb.charAt(idx))){
-                sb.delete(idx-1,idx+1);
-                idx-=2;
-            }
-            idx++;
-        }
+        StringBuilder sb=new StringBuilder();
+        for(char c:s.toCharArray())
+            if(Character.isDigit(c))
+                sb.delete(sb.length()-1, sb.length());
+            else
+                sb.append(c);
         return sb.toString();
 
     }

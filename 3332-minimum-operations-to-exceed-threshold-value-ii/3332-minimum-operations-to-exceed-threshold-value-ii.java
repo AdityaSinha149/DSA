@@ -8,9 +8,11 @@ class Solution {
             Long n1=q.poll();
             if(n1>=k)return ops;
             Long n2=q.poll();
-            q.add(n1*2+n2);
+            Long n=n1*2+n2;
+            if(n<k)q.add(n);
             ops++;
         }
-        return ops;
+        if(q.isEmpty())return ops;
+        return k < q.peek() ? ops:ops+1;
     }
 }

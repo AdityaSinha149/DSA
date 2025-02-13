@@ -13,6 +13,6 @@ class Solution {
             ops++;
         }
         if(q.isEmpty())return ops;
-        return k < q.peek() ? ops:ops+1;
+        return k <= q.peek() ? ops:ops+1;
     }
 }

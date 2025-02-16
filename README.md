@@ -422,7 +422,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AdityaSinha149/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/AdityaSinha149/DSA/tree/master/0040-combination-sum-ii) |
-| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AdityaSinha149/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AdityaSinha149/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Binary Indexed Tree
 |  |

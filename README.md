@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
+| [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaSinha149/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
+| [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdityaSinha149/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AdityaSinha149/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSinha149/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
+| [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/AdityaSinha149/DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/AdityaSinha149/DSA/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/AdityaSinha149/DSA/tree/master/1511-count-number-of-teams) |

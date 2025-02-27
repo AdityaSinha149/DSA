@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+| [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/AdityaSinha149/DSA/tree/master/1916-find-center-of-star-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AdityaSinha149/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AdityaSinha149/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaSinha149/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 ## Number Theory
 |  |
 | ------- |

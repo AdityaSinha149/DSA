@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
+| [1170-shortest-common-supersequence](https://github.com/AdityaSinha149/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AdityaSinha149/DSA/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaSinha149/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaSinha149/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/AdityaSinha149/DSA/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/AdityaSinha149/DSA/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/AdityaSinha149/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/AdityaSinha149/DSA/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaSinha149/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AdityaSinha149/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |

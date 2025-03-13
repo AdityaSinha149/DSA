@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaSinha149/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdityaSinha149/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaSinha149/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
 |  |
 | ------- |

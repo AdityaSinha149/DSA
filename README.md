@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AdityaSinha149/DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdityaSinha149/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AdityaSinha149/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/AdityaSinha149/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdityaSinha149/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaSinha149/DSA/tree/master/2727-number-of-senior-citizens) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaSinha149/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AdityaSinha149/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdityaSinha149/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AdityaSinha149/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |

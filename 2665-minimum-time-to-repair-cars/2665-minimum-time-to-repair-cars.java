@@ -12,7 +12,7 @@ class Solution {
         int min=ranks[0];
         for(int r:ranks)
             min=Math.min(min, r);
-        long h=1L*min*cars*cars;
+        long h=(long)min*cars*cars;
 
         while(l<=h){
             long m=l+(h-l)/2;

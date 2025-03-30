@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/AdityaSinha149/DSA/tree/master/0266-palindrome-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/AdityaSinha149/DSA/tree/master/0906-walking-robot-simulation) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AdityaSinha149/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0266-palindrome-permutation](https://github.com/AdityaSinha149/DSA/tree/master/0266-palindrome-permutation) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
+| [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [1051-shortest-way-to-form-string](https://github.com/AdityaSinha149/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AdityaSinha149/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdityaSinha149/DSA/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [1051-shortest-way-to-form-string](https://github.com/AdityaSinha149/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaSinha149/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AdityaSinha149/DSA/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
+| [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/AdityaSinha149/DSA/tree/master/0890-lemonade-change) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |

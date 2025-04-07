@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaSinha149/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AdityaSinha149/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdityaSinha149/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaSinha149/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaSinha149/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaSinha149/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaSinha149/DSA/tree/master/2411-spiral-matrix-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaSinha149/DSA/tree/master/3227-find-missing-and-repeated-values) |

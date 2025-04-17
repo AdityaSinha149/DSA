@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0266-palindrome-permutation](https://github.com/AdityaSinha149/DSA/tree/master/0266-palindrome-permutation) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaSinha149/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

@@ -1,21 +1,26 @@
 class Solution {
     public String countAndSay(int n) {
-        return helper(n).toString();
+        return helper(n);
     }
 
-    private StringBuilder helper(int n){
-        if(n==1)return new StringBuilder("1");
-        StringBuilder prev=helper(n-1);
-        StringBuilder curr=new StringBuilder();
-        for(int i=0;i<prev.length();i++){
-            int cnt=0;
-            while(i+1<prev.length() && prev.charAt(i)==prev.charAt(i+1)){
+    private String helper(int n){
+        if(n==1)return "1";
+        String m=helper(n-1);
+        int len=m.length();
+        int i=0;
+        StringBuilder sb=new StringBuilder();
+        while(i<len){
+            char curr=m.charAt(i);
+            i++;
+            int count=1;
+            while(i<len && m.charAt(i)==curr){
+                count++;
                 i++;
-                cnt++;
             }
-            curr.append(cnt+1);
-            curr.append(prev.charAt(i));
+
+            sb.append(count);
+            sb.append(curr);
         }
-        return curr;
+        return sb.toString();
     }
 }

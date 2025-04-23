@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaSinha149/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdityaSinha149/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AdityaSinha149/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaSinha149/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaSinha149/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AdityaSinha149/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/AdityaSinha149/DSA/tree/master/2411-spiral-matrix-iv) |

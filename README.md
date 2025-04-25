@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/AdityaSinha149/DSA/tree/master/0266-palindrome-permutation) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AdityaSinha149/DSA/tree/master/0797-rabbits-in-forest) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AdityaSinha149/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
+| [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/AdityaSinha149/DSA/tree/master/0797-rabbits-in-forest) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AdityaSinha149/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

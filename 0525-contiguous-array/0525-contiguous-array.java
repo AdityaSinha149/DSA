@@ -9,8 +9,7 @@ class Solution {
             int diff = 2*sum - i-1;
             if (prefixMap.containsKey(diff)) {
                 int start = prefixMap.get(diff);
-                int newLen = i - start;
-                len = Math.max(len, newLen);
+                len = Math.max(len, i-start);
             } 
             else prefixMap.put(diff, i);
         }

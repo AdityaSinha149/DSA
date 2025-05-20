@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AdityaSinha149/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaSinha149/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaSinha149/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
 | [2915-count-of-interesting-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaSinha149/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AdityaSinha149/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaSinha149/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AdityaSinha149/DSA/tree/master/3429-special-array-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdityaSinha149/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |

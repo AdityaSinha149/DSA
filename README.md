@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
 | [2915-count-of-interesting-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaSinha149/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AdityaSinha149/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AdityaSinha149/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AdityaSinha149/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/AdityaSinha149/DSA/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdityaSinha149/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/AdityaSinha149/DSA/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Greedy
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AdityaSinha149/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/AdityaSinha149/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdityaSinha149/DSA/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Counting
 |  |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AdityaSinha149/DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AdityaSinha149/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AdityaSinha149/DSA/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AdityaSinha149/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Merge Sort
 |  |
 | ------- |

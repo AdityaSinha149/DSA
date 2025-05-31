@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AdityaSinha149/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/AdityaSinha149/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/AdityaSinha149/DSA/tree/master/1916-find-center-of-star-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AdityaSinha149/DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/AdityaSinha149/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |

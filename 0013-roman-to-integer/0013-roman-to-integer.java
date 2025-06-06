@@ -1,30 +1,28 @@
 class Solution {
-    static Map<Character, Integer> values = new HashMap<>();
+    static Map<Character, Integer> map = new HashMap<>();
     static {
-        values.put('M', 1000);
-        values.put('D', 500);
-        values.put('C', 100);
-        values.put('L', 50);
-        values.put('X', 10);
-        values.put('V', 5);
-        values.put('I', 1);
+        map.put('M', 1000);
+        map.put('D', 500);
+        map.put('C', 100);
+        map.put('L', 50);
+        map.put('X', 10);
+        map.put('V', 5);
+        map.put('I', 1);
     }
-
     public int romanToInt(String s) {
-        Character lastSymbol = s.charAt(s.length()-1);
-        int lastValue = values.get(lastSymbol);
-        int total = lastValue;
+        int state = 0;
+        int total = 0;
 
-        for (int i = s.length() - 2; i >= 0; i--) {
-            Character currentSymbol = s.charAt(i);
-            int currentValue = values.get(currentSymbol);
-            if (currentValue < lastValue) {
-                total -= currentValue;
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int curr = map.get(s.charAt(i));
+            if (curr < state) {
+                total -= curr;
             } else {
-                total += currentValue;
+                total += curr;
+                state = curr;
             }
-            lastValue = currentValue;
         }
+
         return total;
     }
 }

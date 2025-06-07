@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/AdityaSinha149/DSA/tree/master/0266-palindrome-permutation) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdityaSinha149/DSA/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/AdityaSinha149/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/AdityaSinha149/DSA/tree/master/0650-2-keys-keyboard) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0330-patching-array](https://github.com/AdityaSinha149/DSA/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaSinha149/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -649,10 +652,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1903-design-most-recently-used-queue](https://github.com/AdityaSinha149/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |
 ## Combinatorics
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AdityaSinha149/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

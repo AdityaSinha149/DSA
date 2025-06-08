@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0386-lexicographical-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/AdityaSinha149/DSA/tree/master/0801-is-graph-bipartite) |
@@ -663,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

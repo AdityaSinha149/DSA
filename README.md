@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdityaSinha149/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0274-h-index](https://github.com/AdityaSinha149/DSA/tree/master/0274-h-index) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/AdityaSinha149/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AdityaSinha149/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AdityaSinha149/DSA/tree/master/0050-powx-n) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1013-fibonacci-number](https://github.com/AdityaSinha149/DSA/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaSinha149/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/AdityaSinha149/DSA/tree/master/2050-count-good-numbers) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -558,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaSinha149/DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [1903-design-most-recently-used-queue](https://github.com/AdityaSinha149/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaSinha149/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AdityaSinha149/DSA/tree/master/3447-clear-digits) |
@@ -673,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AdityaSinha149/DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaSinha149/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AdityaSinha149/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/AdityaSinha149/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaSinha149/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0496-next-greater-element-i](https://github.com/AdityaSinha149/DSA/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AdityaSinha149/DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0496-next-greater-element-i](https://github.com/AdityaSinha149/DSA/tree/master/0496-next-greater-element-i) |
 | [1903-design-most-recently-used-queue](https://github.com/AdityaSinha149/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaSinha149/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AdityaSinha149/DSA/tree/master/3447-clear-digits) |
@@ -685,4 +688,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0496-next-greater-element-i](https://github.com/AdityaSinha149/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

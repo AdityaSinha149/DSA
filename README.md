@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0386-lexicographical-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaSinha149/DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1903-design-most-recently-used-queue](https://github.com/AdityaSinha149/DSA/tree/master/1903-design-most-recently-used-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaSinha149/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/AdityaSinha149/DSA/tree/master/3447-clear-digits) |

@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2674-make-the-prefix-sum-non-negative](https://github.com/AdityaSinha149/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AdityaSinha149/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaSinha149/DSA/tree/master/2727-number-of-senior-citizens) |
 | [2875-count-houses-in-a-circular-street](https://github.com/AdityaSinha149/DSA/tree/master/2875-count-houses-in-a-circular-street) |
 | [2915-count-of-interesting-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/2915-count-of-interesting-subarrays) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AdityaSinha149/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/AdityaSinha149/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdityaSinha149/DSA/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Counting
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AdityaSinha149/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AdityaSinha149/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |

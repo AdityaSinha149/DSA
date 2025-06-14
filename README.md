@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-bitwise-or-of-all-subsequence-sums](https://github.com/AdityaSinha149/DSA/tree/master/2644-bitwise-or-of-all-subsequence-sums) |
 | [2645-pass-the-pillow](https://github.com/AdityaSinha149/DSA/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AdityaSinha149/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AdityaSinha149/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AdityaSinha149/DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdityaSinha149/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/AdityaSinha149/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AdityaSinha149/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2674-make-the-prefix-sum-non-negative](https://github.com/AdityaSinha149/DSA/tree/master/2674-make-the-prefix-sum-non-negative) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AdityaSinha149/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AdityaSinha149/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/AdityaSinha149/DSA/tree/master/3484-lexicographically-smallest-string-after-a-swap) |

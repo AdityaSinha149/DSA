@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AdityaSinha149/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/AdityaSinha149/DSA/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AdityaSinha149/DSA/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/AdityaSinha149/DSA/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaSinha149/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/AdityaSinha149/DSA/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AdityaSinha149/DSA/tree/master/0414-third-maximum-number) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
 | [0539-minimum-time-difference](https://github.com/AdityaSinha149/DSA/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AdityaSinha149/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdityaSinha149/DSA/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/AdityaSinha149/DSA/tree/master/0837-most-common-word) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AdityaSinha149/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdityaSinha149/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/AdityaSinha149/DSA/tree/master/0187-repeated-dna-sequences) |
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/AdityaSinha149/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdityaSinha149/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |

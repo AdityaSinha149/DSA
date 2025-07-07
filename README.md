@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/AdityaSinha149/DSA/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AdityaSinha149/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AdityaSinha149/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1511-count-number-of-teams](https://github.com/AdityaSinha149/DSA/tree/master/1511-count-number-of-teams) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AdityaSinha149/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/AdityaSinha149/DSA/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdityaSinha149/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AdityaSinha149/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaSinha149/DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaSinha149/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AdityaSinha149/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AdityaSinha149/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/AdityaSinha149/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AdityaSinha149/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AdityaSinha149/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaSinha149/DSA/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AdityaSinha149/DSA/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AdityaSinha149/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
 | [0502-ipo](https://github.com/AdityaSinha149/DSA/tree/master/0502-ipo) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AdityaSinha149/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/AdityaSinha149/DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AdityaSinha149/DSA/tree/master/2379-maximum-total-importance-of-roads) |
 | [2434-design-a-number-container-system](https://github.com/AdityaSinha149/DSA/tree/master/2434-design-a-number-container-system) |

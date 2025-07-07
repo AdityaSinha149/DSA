@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/AdityaSinha149/DSA/tree/master/0333-largest-bst-subtree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/AdityaSinha149/DSA/tree/master/0663-equal-tree-partition) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/AdityaSinha149/DSA/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0333-largest-bst-subtree](https://github.com/AdityaSinha149/DSA/tree/master/0333-largest-bst-subtree) |
 | [0386-lexicographical-numbers](https://github.com/AdityaSinha149/DSA/tree/master/0386-lexicographical-numbers) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/AdityaSinha149/DSA/tree/master/0333-largest-bst-subtree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AdityaSinha149/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/1285-balance-a-binary-search-tree) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdityaSinha149/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/AdityaSinha149/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0333-largest-bst-subtree](https://github.com/AdityaSinha149/DSA/tree/master/0333-largest-bst-subtree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AdityaSinha149/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaSinha149/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0663-equal-tree-partition](https://github.com/AdityaSinha149/DSA/tree/master/0663-equal-tree-partition) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaSinha149/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaSinha149/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/AdityaSinha149/DSA/tree/master/0264-ugly-number-ii) |
+| [0333-largest-bst-subtree](https://github.com/AdityaSinha149/DSA/tree/master/0333-largest-bst-subtree) |
 | [0416-partition-equal-subset-sum](https://github.com/AdityaSinha149/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0487-max-consecutive-ones-ii](https://github.com/AdityaSinha149/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0650-2-keys-keyboard](https://github.com/AdityaSinha149/DSA/tree/master/0650-2-keys-keyboard) |

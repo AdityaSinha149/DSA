@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-maximum-height-of-a-triangle](https://github.com/AdityaSinha149/DSA/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AdityaSinha149/DSA/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AdityaSinha149/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AdityaSinha149/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AdityaSinha149/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3643-zero-array-transformation-ii](https://github.com/AdityaSinha149/DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AdityaSinha149/DSA/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AdityaSinha149/DSA/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdityaSinha149/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/AdityaSinha149/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Merge Sort
 |  |
 | ------- |

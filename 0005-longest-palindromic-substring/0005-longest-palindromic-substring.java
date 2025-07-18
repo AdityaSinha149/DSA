@@ -1,38 +1,34 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
-        int max = 0;
-        String longest = "";
-        int left = 0;
-        int right = s.length();
+        int n = s.length();
+        boolean[][] dp = new boolean[n][n];
+        int[] ans = new int[] { 0, 0 };
 
-        while (left < s.length()) {
-            while (right > left) {
-                String check = s.substring(left, right);
-                if (checkPalin(check) && check.length() > max) {
-                    max = check.length();
-                    longest = check;
-                    break;
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = true;
+        }
+
+        for (int i = 0; i < n - 1; i++) {
+            if (s.charAt(i) == s.charAt(i + 1)) {
+                dp[i][i + 1] = true;
+                ans[0] = i;
+                ans[1] = i + 1;
+            }
+        }
+
+        for (int diff = 2; diff < n; diff++) {
+            for (int i = 0; i < n - diff; i++) {
+                int j = i + diff;
+                if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]) {
+                    dp[i][j] = true;
+                    ans[0] = i;
+                    ans[1] = j;
                 }
-                right--;
             }
-            left++;
-            right = s.length(); // Reset right pointer
         }
-        
-        return longest;
-    }
 
-    public boolean checkPalin(String s) {
-        int left = 0, right = s.length() - 1;
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) {
-                return false;
-            }
-            left++;
-            right--;
-        }
-        return true;
+        int i = ans[0];
+        int j = ans[1];
+        return s.substring(i, j + 1);
     }
 }
